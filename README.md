@@ -3,20 +3,19 @@
 
 ---
 
-🌟 I’m currently pursuing my degree in **Informatics (BCom)** at the **University of South Africa (UNISA)**, graduating in 2025.
+🌟 I’m currently pursuing my degree in **Informatics (BCom)** at the **University of South Africa (UNISA)**
 
 ---
 
 🔧 I’m currently building:
 - 🚗 A Django app for managing auto upholstery quotes (Xpert Auto Upholstery)
-- 🌍 A community platform for Zulu writers (in progress)
 
 ---
 🧠 Currently learning:
 - Advanced Python Programing
 - Web Development Frameworks(Django & Flask)
 - Data Analysis & Data Science Frameworks(NumPy, Pandas,...)
-- Git - versio control
+- Git - versio control & GitHub
 - Database Management Systems
 
 ---
@@ -26,7 +25,7 @@
 - LinkedIn: **https://www.linkedin.com/in/mphathincube8/**
 - WhatsApp: **https://wa.me/27733581246**
 
-⚡ Fun fact: I love helping others get started with coding and Django!
+⚡ Fun fact: I love helping others get started with coding and Software development!
 
 ---
 
@@ -52,8 +51,6 @@
 ### 🧠 Projects I'm Working On
 
 - 💼 [Xpert Auto Upholstery - Quote Management System](https://github.com/mphathincube/xpert-quotes)
-- 📝 [Beginner Python Lessons on WhatsApp](https://chat.whatsapp.com/E4VPQGSU28G4UF3ogGDF4x)
-- 🌍 [Zulu Writers Community Platform](#)
 
 ---
 
@@ -69,9 +66,9 @@
 
 💬 Ask me about:
 - Python
-- Django/Web Development
+- Web Development
 - Database Systems
-- Statistics
+- Information Systems
 
 ---
 
