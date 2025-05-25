@@ -15,7 +15,7 @@
 - Advanced Python Programing
 - Web Development Frameworks(Django & Flask)
 - Data Analysis & Data Science Frameworks(NumPy, Pandas,...)
-- Git - versio control & GitHub
+- Git - version control & GitHub
 - Database Management Systems
 
 ---
