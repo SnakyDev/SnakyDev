@@ -1,31 +1,41 @@
+
+# <h1 align="center">Welcome to SnakyDev 🐍</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=cc0000&center=true&vCenter=true&width=435&lines=Passionate+Python+Developer;Snaky+Clean+Code+%F0%9F%94%A5;Machine+Learning+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
+</p>
+
+
 <h2 align="center">Hi 👋, I'm Mphathi Ncube</h2>
-<h4 align="center">Aspiring Software Developer | Data Professional | AI & ML Engineer Entusiast</h4>
+<h4 align="center">Software Developer | Data Professional | AI & ML Engineer Entusiast</h4>
 
 ---
 
-🌟 I’m currently pursuing my degree in **Informatics (BCom)** at the **University of South Africa (UNISA)**
+### 👨🏽‍🎓 About Me
 
----
-
-🔧 I’m currently building:
-- 🚗 A Django app for managing auto upholstery quotes (Xpert Auto Upholstery)
+- 💻 I’m a passionate **Python Developer** and tech enthusiast.  
+- 🐍 Obsessed with clean code, automation, and AI.    
+- 🎯 Goal: Build smart, scalable systems that *just work*.
 
 ---
 🧠 Currently learning:
+
 - Advanced Python Programing
 - Web Development Frameworks(Django & Flask)
-- Data Analysis & Data Science Frameworks(NumPy, Pandas,...)
-- Git - version control & GitHub
-- Database Management Systems
+- Data Analysis & Data Science Frameworks(NumPy, Pandas, etc.)
+- Git & GitHub
+- Database Management Systems (MySQL, PostgreSQL, SQLite)
 
 ---
-
 📫 How to reach me:
-- Email: **mphathincube8@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/mphathincube8/**
-- WhatsApp: **https://wa.me/27733581246**
-
-⚡ Fun fact: I love helping others get started with coding and Software development!
+- 📧 Email: **mphathincube8@gmail.com**
+- 🔗 LinkedIn: **[linkedin.com/mphathi](https://www.linkedin.com/in/mphathincube8/)**
+- 💬 WhatsApp: **[Click to Chat](https://wa.me/27733581246)**
+  
+---
+🖤 Fun Fact:
+- I'm not just a developer, I'm a code whisperer. When bugs hide, I strike like a snake — silently and precisely.
+- I love helping others get started with coding and software development!
 
 ---
 
@@ -48,26 +58,28 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mphathincube&layout=compact&theme=radical)
 
+---
 ### 🧠 Projects I'm Working On
 
-- 💼 [Xpert Auto Upholstery - Quote Management System](https://github.com/mphathincube/xpert-quotes)
+- 💼 [Xpert Auto Upholstery - Quote Management System](https://github.com/SnakyDev/xpert-quotes)
+- 📙 [100 Days of Python Challenge](https://github.com/SnakyDev/100-days-of-python)
 
 ---
 
 ### 📚 Certifications / Achievements
-- 🎓 Currently pursuing BCom Informatics @ UNISA
-- 🏅 Accepted into WorldQuant University Data Science Lab
-- 🏆 AWS Cloud Practitioner essentials Certificate
-- 🏆 ALX AiCE - AI Career Essentials Certificate
-- 🏆 CISCO Networking Academy Python 1 essentials Certificate
+- 🎓 BCom Informatics (UNISA - in progress)
+- 🏅 WorldQuant University - Data Science Lab
+- 🏆 AWS Cloud Practitioner Essentials
+- 🏆 ALX AiCE - AI Career Essentials
+- 🏆 CISCO Python 1 Essentials
 
 
 ---
 
 💬 Ask me about:
-- Python
-- Web Development
-- Database Systems
+- Python 🐍
+- Web Development (Django, Flask)
+- Databases (PostgreSQL, MySQL, SQLite)
 - Information Systems
 
 ---
@@ -80,3 +92,11 @@
   <a href="mailto:mphathincube8@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat" width="80" height="30" /></a>
 <a href="https://wa.me/27733581246" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxiZP5-HeMYFvrOHKiye9yYZy5sTeuSlOEg&s" width="35" height="35" /></a>
 </p>
+
+---
+
+## 🌐 **[Portfolio:coming soon?](snakydev.dev)**
+
+---
+
+> 🐍 Powered by passion. Inspired by progress. Built by SnakyDev.
